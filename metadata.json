@@ -1,0 +1,6 @@
+{
+  "name": "Kaiten Check — คำนวณราคาซูชิสายพานตามสีจาน",
+  "description": "เครื่องมือคำนวณราคาซูชิสายพานแบ่งตามสีจาน (ขาว แดง เงิน ทอง ดำ) พร้อมสรุปยอดก่อนและหลังคิดค่าบริการ 10% และหารบิลต่อคน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
